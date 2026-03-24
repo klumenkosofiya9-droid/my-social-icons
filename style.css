@@ -89,4 +89,7 @@ ul li:nth-child(4) a:before {
         font-size: 25px;
         margin: 8px;
     }
+
+    ul {
+        max-width: 90%;
 }
